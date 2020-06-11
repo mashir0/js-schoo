@@ -1,0 +1,9 @@
+? Please pick a preset: Manually select features
+? Check the features needed for your project: (Press <space> to select, <a> to toggle all, <i> to invert selectio
+n)Babel, Linter
+? Pick a linter / formatter config: Prettier
+? Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection)Lint on sav
+e
+? Where do you prefer placing config for Babel, ESLint, etc.? In dedicated config files
+? Save this as a preset for future projects? No
+
